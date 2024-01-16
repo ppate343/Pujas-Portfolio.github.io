@@ -1,0 +1,52 @@
+# Angular CLI Commands Cheat Sheet
+
+# Create a new Angular application
+ng new <app-name>
+
+# Navigate to the application directory
+cd <app-name>
+
+# Serve the application in development mode
+ng serve
+
+# Create a new component
+ng generate component <component-name>
+
+# Create a new service
+ng generate service <service-name>
+
+# Create a new module
+ng generate module <module-name>
+
+# Build the application for production
+ng build --prod
+
+# Run unit tests
+ng test
+
+# Run end-to-end tests
+ng e2e
+
+# Generate a new directive
+ng generate directive <directive-name>
+
+# Generate a new pipe
+ng generate pipe <pipe-name>
+
+# Generate a new class
+ng generate class <class-name>
+
+# Generate a new interface
+ng generate interface <interface-name>
+
+# Generate a new enum
+ng generate enum <enum-name>
+
+# Generate a new module
+ng generate module <module-name>
+
+# Display Angular CLI version
+ng version
+
+# Help command for Angular CLI
+ng help
